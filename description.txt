@@ -1,1 +1,9 @@
-Modify this file with a description of your mod.
+Bunny Bonanza adds more bunnies to the game. That's it, really.
+
+Current bunnies:
+- Hell
+- Hallowed
+- Solar
+- Vortex
+- Nebula
+- Stardust

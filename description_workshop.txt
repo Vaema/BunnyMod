@@ -1,1 +1,5 @@
-This description will show up on the steam page, check out https://steamcommunity.com/comment/Guide/formattinghelp.
+[h1]Bunny Bonanza (Port)[/h1]
+
+[h2]Information[/h2]
+This is a port of the 1.3 mod "Bunny Bonanza" to 1.4.4. All it really does is add more bunny variants to the game.
+It was originally owned by Alphakip.

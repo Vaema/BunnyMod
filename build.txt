@@ -1,3 +1,9 @@
 displayName = Bunny Bonanza
 author = Alphakip (Ported by Astra)
-version = 0.1
+version = 1.0
+
+hideCode = false
+hideResources = false
+includeSource = true
+
+buildIgnore = .vs\*, .idea\*, *.sln, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, .github\*, README.md, .editorconfig, .gitignore, .gitattributes

@@ -1,0 +1,3 @@
+displayName = Bunny Bonanza
+author = Alphakip (Ported by Astra)
+version = 0.1

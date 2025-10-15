@@ -1,0 +1,9 @@
+HallowedBunnyItem: {
+	DisplayName: Hallowed Bunny
+	Tooltip: ""
+}
+
+HellBunnyItem: {
+	DisplayName: Hell Bunny
+	Tooltip: ""
+}

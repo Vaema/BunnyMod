@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 
 namespace BunnyMod.NPCs;
 
-public abstract class BaseBunny : ModNPC
+public abstract class BaseBunnyNPC : ModNPC
 {
     public virtual int CatchItem { get; set; } 
     
@@ -25,9 +25,9 @@ public abstract class BaseBunny : ModNPC
         NPC.knockBackResist = 0.5f;
         NPC.catchItem = CatchItem;
 
-        NPC.aiStyle = 7;
-        AIType = 46;
-        AnimationType = 46;
+        NPC.aiStyle = NPCAIStyleID.Passive;
+        AIType = NPCID.Bunny;
+        AnimationType = NPCID.Bunny;
 
         NPC.HitSound = SoundID.NPCHit1;
         NPC.DeathSound = SoundID.NPCDeath1;

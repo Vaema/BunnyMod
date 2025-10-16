@@ -14,7 +14,7 @@ public class HallowedBunny : BaseBunnyNPC
 
     public override float SpawnChance(NPCSpawnInfo spawnInfo)
     {
-        if (!(spawnInfo.SpawnTileY < Main.worldSurface || !spawnInfo.Player.ZoneHallow))
+        if (!(spawnInfo.SpawnTileY < Main.worldSurface || spawnInfo.Player.ZoneHallow))
             return 0f;
 
         return 0.2f;

@@ -11,7 +11,7 @@ public class SolarBunnyItem : BaseBunnyItem
     public override void SafeSetDefaults()
     {
         Item.makeNPC = ModContent.NPCType<SolarBunny>();
-        Item.rare = ItemRarityID.Orange;
-        Item.value = Item.sellPrice(silver: 10);
+        Item.rare = ItemRarityID.Red;
+        Item.value = Item.sellPrice(gold: 1);
     }
 }

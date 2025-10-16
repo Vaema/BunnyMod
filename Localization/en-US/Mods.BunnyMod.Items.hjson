@@ -7,3 +7,23 @@ HellBunnyItem: {
 	DisplayName: Hell Bunny
 	Tooltip: ""
 }
+
+SolarBunnyItem: {
+	DisplayName: Solar Bunny
+	Tooltip: ""
+}
+
+VortexBunnyItem: {
+	DisplayName: Vortex Bunny
+	Tooltip: ""
+}
+
+NebulaBunnyItem: {
+	DisplayName: Nebula Bunny
+	Tooltip: ""
+}
+
+StardustBunnyItem: {
+	DisplayName: Stardust Bunny
+	Tooltip: ""
+}
